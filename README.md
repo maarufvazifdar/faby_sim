@@ -75,3 +75,6 @@ source devel/setup.bash
         ![](images/faby_gui.png) 
         2. If you click 5, Faby starts going towards Table 5.
         ![](images/faby4.png)
+
+## Demonstration Video
+![caption](videos/faby1.gif)
