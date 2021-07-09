@@ -1,3 +1,7 @@
+/**
+ * @author Mohammed Maaruf Vazifdar
+ */
+
 #ifndef NAV_GOALS_H
 #define NAV_GOALS_H
 
